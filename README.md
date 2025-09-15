@@ -1,2 +1,3 @@
+# Atelier Noisette
 Petit ébéniste de quartier
-[info@ateliernoisette.ca](mailto:info@ateliernoisette.ca)
+info@ateliernoisette.ca
