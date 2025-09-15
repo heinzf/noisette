@@ -1,5 +1,5 @@
-Petit ébéniste de quartier
+# Atelier Noisette
 
-Des meubles intelligents
+Ebénisterie artisanale pour mobilier intelligent.
 
 info@ateliernoisette.ca
