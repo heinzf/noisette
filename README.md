@@ -1,2 +1,2 @@
-# noisette
-Atelier Noisette
+# Atelier Noisette
+Petit ébéniste de quartier
